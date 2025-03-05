@@ -7,13 +7,13 @@ body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-section {
+.main {
     display: flex;
     flex-direction: row-reverse;
     height: 100%;
 }
 
-footer {
+.footer {
     position: fixed;
     left: 0;
     bottom: 0;
@@ -23,19 +23,19 @@ footer {
     text-align: center;
 }
 
-header {
+.header {
     background-color: grey;
     color: white;
 }
 
-article {
+.stuff {
     text-align: left;
     margin-left: 75px;
     margin-right: 75px;
     margin-top: 50px;
 }
 
-nav {
+.menu {
     background-color: darkgray;
     height: 100%;
     padding-right: 30px;
@@ -45,7 +45,7 @@ html {
     height: 100%;
 }
 
-ul {
+.list {
     margin-top: 50px;
     display: flex;
     flex-direction: column;
