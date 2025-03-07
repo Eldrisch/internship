@@ -1,7 +1,6 @@
 ## 🔥 Opis zmian
 
--dodane klasy
--dodane linki w menu
+<!-- Opisz, co zostało zrobione w tym Pull Requeście -->
 
 ## ✅ Jak testować
 
