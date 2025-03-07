@@ -1,0 +1,59 @@
+.siur {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    text-align: center;
+    height: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.kupsko {
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+}
+
+.dół {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: slategray;
+    color: black;
+    text-align: center;
+}
+
+.góra {
+    background-color: slategray;
+    color: black;
+}
+
+article {
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 20px;
+}
+
+nav {
+    background-color: silver;
+    height: 100%;
+    padding-right: 30px;
+}
+
+html {
+    height: 100%;
+}
+
+ul {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
